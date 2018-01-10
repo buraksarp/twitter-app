@@ -1,4 +1,4 @@
-Spring Boot Twiiter App
+Spring Boot Twitter App
 =========================
 
 Building the Application
